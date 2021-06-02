@@ -176,6 +176,9 @@ nav ul li a{
     left:37%;
     top:-9%;
 }
+.part5 img{
+    width:700px;
+}
 }
 /* section part  */
 
@@ -234,6 +237,9 @@ nav ul li a{
     position: absolute;
     left:40%;
     top:-9%;
+}
+.part5 img{
+    width:700px;
 }
 /* end section part  */ 
 
@@ -498,6 +504,9 @@ nav ul li a{
     position: absolute;
     left:80px;
     top:95px;
+}
+.img-side img{
+    width:640px;
 }
 
 .form{
